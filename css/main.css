@@ -8,3 +8,26 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h2 {
+
+}
+
+p {
+
+}
+
+section {
+  text-align: center;
+}
+
+div {
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
