@@ -9,22 +9,32 @@ html {
   box-sizing: inherit;
 }
 
-h2 {
+body {
+  margin: 0;
+  padding: 2rem;
+}
 
+h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-top: .5rem;
 }
 
 p {
-
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }
 
 section {
   text-align: center;
+  padding: .2rem;
 }
 
 div {
   text-align: left;
   display: inline-block;
   vertical-align: middle;
+  padding: .75rem 1rem;
 }
 
 img {
