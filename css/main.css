@@ -40,9 +40,10 @@ div {
 img {
   display: block;
   width: 100%;
+  max-width: 376px;
 }
 
-.button {
+.btn {
   color:#333
   border: 3px solid #333
   border-radius: 9px;
@@ -51,7 +52,7 @@ img {
   padding: .5em .75em
 }
 
-.button:hover {
+.btn:hover {
   color: #eee9de;
   background-color: #666
   border: 3px solid #666
