@@ -33,6 +33,7 @@ section {
 
 div {
   text-align: left;
+  max-width: 25rem;
   display: inline-block;
   vertical-align: middle;
   padding: .75rem 1rem;
@@ -51,6 +52,7 @@ img {
   display: inline-block;
   font-size: 1.1rem;
   padding: .5em .75em;
+  text-decoration: none;
 }
 
 .btn:hover {
