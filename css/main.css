@@ -45,11 +45,11 @@ img {
 
 .btn {
   color:#333
-  border: 3px solid #333
+  border: 3px solid #333;
   border-radius: 9px;
   display: inline-block;
   font-size: 1.1rem;
-  padding: .5em .75em
+  padding: .5em .75em;
 }
 
 .btn:hover {
