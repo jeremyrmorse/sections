@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #eee9de;
-  font-family: Lato
+  font-family: Lato, sans-serif;
   line-height: 1.5;
 }
 
@@ -40,4 +40,19 @@ div {
 img {
   display: block;
   width: 100%;
+}
+
+.button {
+  color:#333
+  border: 3px solid #333
+  border-radius: 9px;
+  display: inline-block;
+  font-size: 1.1rem;
+  padding: .5em .75em
+}
+
+.button:hover {
+  color: #eee9de;
+  background-color: #666
+  border: 3px solid #666
 }
